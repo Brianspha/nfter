@@ -1,0 +1,53 @@
+{
+  "abiDefinition": [],
+  "deployedAddress": "0x30e8C1a69b4554e97193C69aeb3D40bD8f16BAE4",
+  "className": "EnumerableSet",
+  "args": [],
+  "gas": 78846,
+  "gasPrice": "2625000016",
+  "silent": false,
+  "track": true,
+  "deploy": true,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea264697066735822122031100728a9ccf4cb1d",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea264697066735822122031100728a9ccf4cb1da015e4d2bf61ce24011d070ca81b8b9c28dfa4832c77b964736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea264697066735822122031100728a9ccf4cb1da015e4d2bf61ce24011d070ca81b8b9c28dfa4832c77b964736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "a015e4d2bf61ce24011d070ca81b8b9c28dfa4832c77b964736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "_add(struct EnumerableSet.Set storage pointer,bytes32)": "infinite",
+      "_at(struct EnumerableSet.Set storage pointer,uint256)": "infinite",
+      "_contains(struct EnumerableSet.Set storage pointer,bytes32)": "infinite",
+      "_length(struct EnumerableSet.Set storage pointer)": "infinite",
+      "_remove(struct EnumerableSet.Set storage pointer,bytes32)": "infinite",
+      "add(struct EnumerableSet.AddressSet storage pointer,address)": "infinite",
+      "add(struct EnumerableSet.Bytes32Set storage pointer,bytes32)": "infinite",
+      "add(struct EnumerableSet.UintSet storage pointer,uint256)": "infinite",
+      "at(struct EnumerableSet.AddressSet storage pointer,uint256)": "infinite",
+      "at(struct EnumerableSet.Bytes32Set storage pointer,uint256)": "infinite",
+      "at(struct EnumerableSet.UintSet storage pointer,uint256)": "infinite",
+      "contains(struct EnumerableSet.AddressSet storage pointer,address)": "infinite",
+      "contains(struct EnumerableSet.Bytes32Set storage pointer,bytes32)": "infinite",
+      "contains(struct EnumerableSet.UintSet storage pointer,uint256)": "infinite",
+      "length(struct EnumerableSet.AddressSet storage pointer)": "infinite",
+      "length(struct EnumerableSet.Bytes32Set storage pointer)": "infinite",
+      "length(struct EnumerableSet.UintSet storage pointer)": "infinite",
+      "remove(struct EnumerableSet.AddressSet storage pointer,address)": "infinite",
+      "remove(struct EnumerableSet.Bytes32Set storage pointer,bytes32)": "infinite",
+      "remove(struct EnumerableSet.UintSet storage pointer,uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/EnumerableSet.sol",
+  "originalFilename": "contracts//Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/EnumerableSet.sol",
+  "path": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/utils/EnumerableSet.sol",
+  "type": "file",
+  "deploymentAccount": "0x3b69C1c2631391d93D5F8928c3e9a390359AE93C",
+  "transactionHash": "0x55656c36b23169fc4874231a1c39b6ba2291bbcc30c4c47928b1658ac24079d6"
+}

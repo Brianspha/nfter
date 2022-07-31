@@ -1,0 +1,44 @@
+{
+  "abiDefinition": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes4",
+          "name": "interfaceId",
+          "type": "bytes4"
+        }
+      ],
+      "name": "supportsInterface",
+      "outputs": [
+        {
+          "internalType": "bool",
+          "name": "",
+          "type": "bool"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    }
+  ],
+  "className": "IERC165",
+  "args": [],
+  "gas": "auto",
+  "silent": false,
+  "track": true,
+  "deploy": false,
+  "realRuntimeBytecode": "",
+  "realArgs": [],
+  "code": "",
+  "runtimeBytecode": "",
+  "linkReferences": {},
+  "swarmHash": "",
+  "gasEstimates": null,
+  "functionHashes": {
+    "supportsInterface(bytes4)": "01ffc9a7"
+  },
+  "filename": "/Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/introspection/IERC165.sol",
+  "originalFilename": "contracts//Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/introspection/IERC165.sol",
+  "path": "/Users/powerbite/Documents/Github/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/introspection/IERC165.sol",
+  "type": "file",
+  "deploymentAccount": "0xbd6581FBDc3d3f42B44A1f1416ee5c2a5B7b85f6"
+}

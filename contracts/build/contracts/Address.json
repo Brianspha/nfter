@@ -1,0 +1,44 @@
+{
+  "abiDefinition": [],
+  "deployedAddress": "0x06e0261463249dA51F7a4510b72068d646E2Fa81",
+  "className": "Address",
+  "args": [],
+  "gas": 79098,
+  "gasPrice": "2625000016",
+  "silent": false,
+  "track": true,
+  "deploy": true,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e6da83c81ce5c5a47f",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e6da83c81ce5c5a47f8a2fdc04f3ad77d1663ac43fbb97d5c4524ec4abe7b24e64736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220e6da83c81ce5c5a47f8a2fdc04f3ad77d1663ac43fbb97d5c4524ec4abe7b24e64736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "8a2fdc04f3ad77d1663ac43fbb97d5c4524ec4abe7b24e64736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "_verifyCallResult(bool,bytes memory,string memory)": "infinite",
+      "functionCall(address,bytes memory)": "infinite",
+      "functionCall(address,bytes memory,string memory)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256,string memory)": "infinite",
+      "functionDelegateCall(address,bytes memory)": "infinite",
+      "functionDelegateCall(address,bytes memory,string memory)": "infinite",
+      "functionStaticCall(address,bytes memory)": "infinite",
+      "functionStaticCall(address,bytes memory,string memory)": "infinite",
+      "isContract(address)": "infinite",
+      "sendValue(address payable,uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "originalFilename": "contracts//Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "path": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "type": "file",
+  "deploymentAccount": "0x3b69C1c2631391d93D5F8928c3e9a390359AE93C",
+  "transactionHash": "0x812f83810ed8d4d7e6431e1faccdfb2abeb1f57fd3a090da1ed2773fe26128b9"
+}

@@ -1,0 +1,44 @@
+{
+  "abiDefinition": [],
+  "deployedAddress": "0x40b251285C005BD27A6fFcB2ed935E3c3c6F7558",
+  "className": "Address",
+  "args": [],
+  "gas": 78025,
+  "gasPrice": "1728000000",
+  "silent": false,
+  "track": true,
+  "deploy": true,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220c31440dff29e822794",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220c31440dff29e822794401a85ba281d5db90b01a5cbf852cd60d7809e4da49a8764736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220c31440dff29e822794401a85ba281d5db90b01a5cbf852cd60d7809e4da49a8764736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "401a85ba281d5db90b01a5cbf852cd60d7809e4da49a8764736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "_verifyCallResult(bool,bytes memory,string memory)": "infinite",
+      "functionCall(address,bytes memory)": "infinite",
+      "functionCall(address,bytes memory,string memory)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256)": "infinite",
+      "functionCallWithValue(address,bytes memory,uint256,string memory)": "infinite",
+      "functionDelegateCall(address,bytes memory)": "infinite",
+      "functionDelegateCall(address,bytes memory,string memory)": "infinite",
+      "functionStaticCall(address,bytes memory)": "infinite",
+      "functionStaticCall(address,bytes memory,string memory)": "infinite",
+      "isContract(address)": "infinite",
+      "sendValue(address payable,uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "originalFilename": "contracts//Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "path": "/Users/powerbite/Documents/Github/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Address.sol",
+  "type": "file",
+  "deploymentAccount": "0xbd6581FBDc3d3f42B44A1f1416ee5c2a5B7b85f6",
+  "transactionHash": "0xf94c35669519ff9d91b3a5b857c8a7e571e8e23f09b139a33ce62513bdd04852"
+}

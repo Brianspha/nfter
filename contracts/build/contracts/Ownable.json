@@ -1,0 +1,84 @@
+{
+  "abiDefinition": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    },
+    {
+      "anonymous": false,
+      "inputs": [
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "previousOwner",
+          "type": "address"
+        },
+        {
+          "indexed": true,
+          "internalType": "address",
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "OwnershipTransferred",
+      "type": "event"
+    },
+    {
+      "inputs": [],
+      "name": "owner",
+      "outputs": [
+        {
+          "internalType": "address",
+          "name": "",
+          "type": "address"
+        }
+      ],
+      "stateMutability": "view",
+      "type": "function"
+    },
+    {
+      "inputs": [],
+      "name": "renounceOwnership",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    },
+    {
+      "inputs": [
+        {
+          "internalType": "address",
+          "name": "newOwner",
+          "type": "address"
+        }
+      ],
+      "name": "transferOwnership",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "className": "Ownable",
+  "args": [],
+  "gas": "auto",
+  "silent": false,
+  "track": true,
+  "deploy": false,
+  "realRuntimeBytecode": "",
+  "realArgs": [],
+  "code": "",
+  "runtimeBytecode": "",
+  "linkReferences": {},
+  "swarmHash": "",
+  "gasEstimates": null,
+  "functionHashes": {
+    "owner()": "8da5cb5b",
+    "renounceOwnership()": "715018a6",
+    "transferOwnership(address)": "f2fde38b"
+  },
+  "filename": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "originalFilename": "contracts//Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "path": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+  "type": "file",
+  "deploymentAccount": "0x3b69C1c2631391d93D5F8928c3e9a390359AE93C"
+}

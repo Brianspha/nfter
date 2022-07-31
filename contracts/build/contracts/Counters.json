@@ -1,0 +1,36 @@
+{
+  "abiDefinition": [],
+  "deployedAddress": "0x3737E5E204279Cd1dbDC437a94c374f741ed3027",
+  "className": "Counters",
+  "args": [],
+  "gas": 77252,
+  "gasPrice": "2625000016",
+  "silent": false,
+  "track": true,
+  "deploy": true,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220309ce039c004717730",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220309ce039c004717730b1130592bda09aeea79d0ade2804de78cac898504b6a0864736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea2646970667358221220309ce039c004717730b1130592bda09aeea79d0ade2804de78cac898504b6a0864736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "b1130592bda09aeea79d0ade2804de78cac898504b6a0864736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "current(struct Counters.Counter storage pointer)": "infinite",
+      "decrement(struct Counters.Counter storage pointer)": "infinite",
+      "increment(struct Counters.Counter storage pointer)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Counters.sol",
+  "originalFilename": "contracts//Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Counters.sol",
+  "path": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Counters.sol",
+  "type": "file",
+  "deploymentAccount": "0x3b69C1c2631391d93D5F8928c3e9a390359AE93C",
+  "transactionHash": "0xa0d9902e0d635d0363bd907d9077561f96f0f494768f9beede8dbe07c8626b0b"
+}

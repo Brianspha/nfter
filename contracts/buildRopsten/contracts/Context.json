@@ -1,0 +1,22 @@
+{
+  "abiDefinition": [],
+  "className": "Context",
+  "args": [],
+  "gas": "auto",
+  "silent": false,
+  "track": true,
+  "deploy": false,
+  "realRuntimeBytecode": "",
+  "realArgs": [],
+  "code": "",
+  "runtimeBytecode": "",
+  "linkReferences": {},
+  "swarmHash": "",
+  "gasEstimates": null,
+  "functionHashes": {},
+  "filename": "/Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Context.sol",
+  "originalFilename": "contracts//Users/powerbite/Documents/Github/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Context.sol",
+  "path": "/Users/powerbite/Documents/Github/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/utils/Context.sol",
+  "type": "file",
+  "deploymentAccount": "0xbd6581FBDc3d3f42B44A1f1416ee5c2a5B7b85f6"
+}

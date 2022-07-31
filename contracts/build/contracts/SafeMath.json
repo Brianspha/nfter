@@ -1,0 +1,46 @@
+{
+  "abiDefinition": [],
+  "deployedAddress": "0xAFd176Dffa73313A2d9E04BA953C5bc1Fda039EC",
+  "className": "SafeMath",
+  "args": [],
+  "gas": 76877,
+  "gasPrice": "2625000016",
+  "silent": false,
+  "track": true,
+  "deploy": true,
+  "realRuntimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212204203b9af1c864ee2af",
+  "realArgs": [],
+  "code": "60566023600b82828239805160001a607314601657fe5b30600052607381538281f3fe73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212204203b9af1c864ee2af0cc2d6cd8165453412f81f0240feb3f90856cee942f32964736f6c63430006020033",
+  "runtimeBytecode": "73000000000000000000000000000000000000000030146080604052600080fdfea26469706673582212204203b9af1c864ee2af0cc2d6cd8165453412f81f0240feb3f90856cee942f32964736f6c63430006020033",
+  "linkReferences": {},
+  "swarmHash": "0cc2d6cd8165453412f81f0240feb3f90856cee942f32964736f6c6343000602",
+  "gasEstimates": {
+    "creation": {
+      "codeDepositCost": "17200",
+      "executionCost": "97",
+      "totalCost": "17297"
+    },
+    "internal": {
+      "add(uint256,uint256)": "infinite",
+      "div(uint256,uint256)": "infinite",
+      "div(uint256,uint256,string memory)": "infinite",
+      "mod(uint256,uint256)": "infinite",
+      "mod(uint256,uint256,string memory)": "infinite",
+      "mul(uint256,uint256)": "infinite",
+      "sub(uint256,uint256)": "infinite",
+      "sub(uint256,uint256,string memory)": "infinite",
+      "tryAdd(uint256,uint256)": "infinite",
+      "tryDiv(uint256,uint256)": "infinite",
+      "tryMod(uint256,uint256)": "infinite",
+      "tryMul(uint256,uint256)": "infinite",
+      "trySub(uint256,uint256)": "infinite"
+    }
+  },
+  "functionHashes": {},
+  "filename": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/math/SafeMath.sol",
+  "originalFilename": "contracts//Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/.embark/node_modules/@openzeppelin/contracts/math/SafeMath.sol",
+  "path": "/Users/siphamandlamjoli/Documents/GitHub/nfttinder/contracts/contracts/.embark/node_modules/@openzeppelin/contracts/math/SafeMath.sol",
+  "type": "file",
+  "deploymentAccount": "0x3b69C1c2631391d93D5F8928c3e9a390359AE93C",
+  "transactionHash": "0x5247f03974ee275476249b348d674ea656c08076c7d49a652b289a230cf6203c"
+}
