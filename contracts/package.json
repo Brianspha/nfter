@@ -12,7 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@openzeppelin/contracts": "^3.4.1",
+    "@openzeppelin/contracts": "^4.7.2",
     "embark": "^6.0.0",
     "embark-geth": "^6.0.0",
     "embarkjs": "^6.0.0",
