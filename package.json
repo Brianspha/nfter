@@ -16,7 +16,7 @@
     "dotenv": "^16.0.1",
     "ether-converter": "^0.0.13",
     "lorem-ipsum": "^2.0.3",
-    "luxon": "^1.27.0",
+    "luxon": "^2.5.2",
     "moment": "^2.29.1",
     "particles.vue": "^3.1.4",
     "skynet-js": "^3.0.2",
